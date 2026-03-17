@@ -74,3 +74,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 With **Content Safety Demo**, you’ll see firsthand how Azure Content Safety can be used to analyze and moderate text content, helping to create safer and more respectful online environments.
+
