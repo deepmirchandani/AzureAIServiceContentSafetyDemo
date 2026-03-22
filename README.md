@@ -19,7 +19,7 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/deepmirchandani/ContentSafetyDemo.git
+   git clone https://github.com/deepmirchandani/AzureAIServiceContentSafetyDemo.git
    cd ContentSafetyDemo
    ```
 
