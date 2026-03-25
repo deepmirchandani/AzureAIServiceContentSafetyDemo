@@ -60,7 +60,7 @@ The results display whether the content was flagged, the categories of harmful c
 
 ## Contributing
 
-Contributions are welcome! Please submit issues or pull requests to improve this demo application.
+Contributions are welcome! Please submit issues or raise pull requests to improve this demo application.
 
 ## License
 
